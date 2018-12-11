@@ -5,5 +5,6 @@ public class TestGit {
         System.out.println("woshinibaba");
         System.out.println("haha");
         System.out.println("woshnimam");
+        System.out.println("fuck");
     }
 }
